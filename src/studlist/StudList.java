@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha Patel
+ * @author Nandini Patel, 2022
  */
 public class StudList {
 
